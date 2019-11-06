@@ -1,7 +1,7 @@
 
 Survey
 .StylesManager
-.applyTheme("winterstone");
+.applyTheme("default");
 
 var json = {
 title: "American History",
